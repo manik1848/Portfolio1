@@ -1,19 +1,19 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://i.ibb.co/q0z937R/1234.jpg');
+    background-image: url('https://i.ibb.co/L8Jbjkf/Remini20220419235850559.jpg');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZh_a8BKu31rG7z8APVOtDYV6zBgQZRafMKCYKYFI8JrrOZ1HflmBvX1uLxhBB3letKc&usqp=CAU');
+    background-image: url('https://th.bing.com/th/id/R.1cebebe1c0cd60ed3fbae46247285045?rik=I1ZknaMnHvJXMQ&riu=http%3a%2f%2flogonoid.com%2fimages%2fbath-and-body-works-logo.jpg&ehk=2p%2fpxjOpXWwArgzvIZISPPu5Pyto%2fzmaCuBVyopIb10%3d&risl=&pid=ImgRaw&r=0');
     cursor: none;    
 }
 .project2{
-    background-image: url('data:image/png;base64,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');
+    background-image: url('https://th.bing.com/th/id/R.46d0635ab475fd752253d83261ff1908?rik=gsLVqkRTrD1yaw&riu=http%3a%2f%2fwww.topcashback.com%2fimages%2fsuppliers%2flarge-logos%2forbitz12_lg.png&ehk=4FT9mnX58xbkdLww5C%2fqb9PTdZCDA0c6OlAGPozx%2bCw%3d&risl=&pid=ImgRaw&r=0');
     cursor: none;
 }
 .project3{
-    background-image: url('https://media-exp1.licdn.com/dms/image/C4D0BAQHa_7bO8itd7A/company-logo_200_200/0/1632882634848?e=2147483647&v=beta&t=ol3lhmNhB4s6k_aubs2KPMXK-Fum_o-C8iRZwPEu6gw');
+    background-image: url('https://content.whygo.com/wp-content/uploads/sites/19/2007/05/orbitz-logo.gif');
     cursor: none;
 }
 /* Miscelaneous Activities photo */

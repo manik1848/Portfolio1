@@ -5,15 +5,15 @@ const Contact = () => {
     
     return (
         <div className="parallax">
-                <div data-aos="zoom-in-up" data-aos-once="true" className="git-form">
-                    <>
+                <div data-aos="zoom-in-up" data-aos-once="true" className="git-form" >
+                <>
                 <div className="git-head-div text-center mx-auto">
                         <h1 id="Contact" className="git-head">{section5Title}</h1>
                 </div>
                 </>
                 <div className="container">
-            <div className="git-cont row">
-                <div className="col-12 col-sm-6 half">
+                  <div className="git-cont row">
+                 <div className="col-12 col-sm-6 half">
                     <form action={contact.contactUrl ? contact.contactUrl : "https://formspree.io"} method={contact.contactUrl ? "POST" : "GET"}>
                         <input type="text" id="fname" name="firstname" placeholder="Your name" required></input>
                         <input type="mail" id="mailid" name="Email" placeholder="Email Address" required></input>
@@ -40,7 +40,7 @@ const Contact = () => {
             </div>
             </div>
         </div>
-            <p id="not-dark" className="Copy">2020 © Copyright <strong>{contact.copyright}</strong>. All Rights Reserved</p>
+            <p id="not-dark" className="Copy">2022 © Copyright <strong>{contact.copyright}</strong>. All Rights Reserved</p>
         </div>
     )
     

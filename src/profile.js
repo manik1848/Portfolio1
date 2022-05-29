@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Sridhar",
+  name: "Manikandan",
 };
 const background = {
   // Options: Snow or Particle
@@ -59,23 +59,23 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Banggood Clone",
+    name: "Bath & Body works Clone",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/AnkurSinghYadav09/banggood.git",
+    url: "https://github.com/Arfeen98/Bathanbodyworks-clone",
   },
-  {
-    // Add image in './styles/images.css' in #project2
-    id: "project2",
-    name: "Croma Clone",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/abhinavBisht94/croma-clone-web16-u3.git",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #project2
+  //   id: "project2",
+  //   name: "Croma Clone",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/abhinavBisht94/croma-clone-web16-u3.git",
+  // },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Shopbob Clone",
+    name: "Orbitz Clone",
     skills: ["React"],
-    url: "https://github.com/iShilajit/shopbopclone.git",
+    url: "https://github.com/KalashThakur/Orbitz/tree/main/CW%20PROJECT/orbitz-clone-master",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -88,18 +88,18 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Are you looking for a fast-performing and user-friendly website to represent your product or business? or looking for any kind of consultation? or want to ask questions? or have some advice for me or just want to say Hi 👋 in any case feel free to Let me know. I will do my best to respond back. 😊 The quickest way to reach out to me is via an email.",
-  copyright: "Sridhar",
+  copyright: "Manik",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com/Sridhar-10",
+  github: "https://github.com/manik1848",
   facebook: "https://facebook.com",
   // twitter: "https://twitter.com",
-  instagram: "https://instagram.com/___dope_boy_?igshid=YmMyMTA2M2Y=",
-  linkedin: "https://www.linkedin.com/in/sridhar-c-6523b1193",
-  resume: "https://drive.google.com/file/d/11gPfkUYoIH4MXC3yiU0urvElmll6UkJq/view?usp=sharing",
+  instagram: "https://www.instagram.com/_manik_prakash_/",
+  linkedin: "https://www.linkedin.com/in/manikandan-p-427237238/",
+  resume: "https://drive.google.com/file/d/1C2iYHvUUHOhH0SBl2sOpPEBX0nzEd78M/view?usp=sharing",
 };
 // Dont change anything here
 export {
