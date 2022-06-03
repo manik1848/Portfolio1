@@ -1,11 +1,9 @@
 # Portfolio
-website :(https://arfeen-portfolio.netlify.app/)
+website :(https://astounding-sfogliatella-e41535.netlify.app/)
 
 This project was created using react and the page is responsive for all the screen sizes.
 
-# pic
-<img src='./Image/navbar.png' width='600px' height='400px'>
-<img src='./Image/Project.png' width='600px' height='400px'>
+
 
 # How to Start
 In the project directory, you can run:
