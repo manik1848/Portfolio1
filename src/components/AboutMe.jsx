@@ -17,7 +17,7 @@ export default function AboutMe() {
 
       <div className="image">
         <div className="white">
-          <img src={img} alt="Arfeen Mushtaque" />
+          <img src={img} alt="Manikandan" />
         </div>
       </div>
     </div>
